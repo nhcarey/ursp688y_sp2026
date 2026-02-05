@@ -22,8 +22,8 @@ Students should submit all assignments as pull requests to this repository. All 
 |[Week 3: Feb 12](#february-12-week-3)|Tabular Analysis|***In-Person***|Exercise 1||
 |[Week 4: Feb 19](#february-19-week-4)|Modular Programming and Generalizability|[Zoom](https://umd.zoom.us/j/95813351606)|Exercise 1 Code Review||
 |[Week 5: Feb 26](#february-26-week-5)|Accessing and Wrangling Data|[Zoom](https://umd.zoom.us/j/95813351606)|||
-|[Week 6: Mar 5](#march-5-week-6)|Data Visualization|[Zoom](https://umd.zoom.us/j/95813351606)|Exercise 2|Chester|
-|[Week 7: Mar 12](#march-12-week-7)|Geospatial Data|***In-Person***|Exercise 2 Code Review||
+|[Week 6: Mar 5](#march-5-week-6)|Geospatial Data|[Zoom](https://umd.zoom.us/j/95813351606)|Exercise 2||
+|[Week 7: Mar 12](#march-12-week-7)|Data VisualizationGeospatial Data|***In-Person***|Exercise 2 Code Review|Chester|
 |[Spring Break](#march-19-spring-break)| 🏄 🌴 🏄 🌴 🏄 🌴 🏄 🌴 |***NO CLASS***||-|
 |[Week 8: Mar 26](#march-26-week-8)|Final Project Proposal Workshop|[Zoom](https://umd.zoom.us/j/95813351606)|Final Project Proposal|-|
 |[Week 9: Apr 2](#april-2-week-9)|Network Analysis|[Zoom](https://umd.zoom.us/j/95813351606)||| 
@@ -359,18 +359,6 @@ This course is inspired by numerous other courses and colleagues, especially:
 
 ### March 5 (Week 6)
 
-- Data visualization
-  - Principles of graphic communication
-  - Matplotlib
-  - Seaborn
-  - Export to Illustrator
-- Reading seminar
-  - [Chapter 1: "Graphical Excellence" pp. (13–51)] Tufte, E. R. (2001). _The Visual Display of Quantitative Information, 2nd Ed._ (2nd edition). Graphics Press.
-
-### March 12 (Week 7)
-
-***IN PERSON***
-
 - Geospatial data
   - Points, linestrings, and polygons
   - Coordinate systems
@@ -381,6 +369,18 @@ This course is inspired by numerous other courses and colleagues, especially:
 - Code Review Workshop
 - Reading seminar
   - Peng, Q., Knaap, G., & Finio, N. (2023). Do Multifamily unit Rents Increase in Response to Light Rail in the Pre-service Period? _International Regional Science Review_, 01600176231162563. <https://doi.org/10.1177/01600176231162563>
+
+### March 12 (Week 7)
+
+***IN PERSON***
+
+- Data visualization
+  - Principles of graphic communication
+  - Matplotlib
+  - Seaborn
+  - Export to Illustrator
+- Reading seminar
+  - [Chapter 1: "Graphical Excellence" pp. (13–51)] Tufte, E. R. (2001). _The Visual Display of Quantitative Information, 2nd Ed._ (2nd edition). Graphics Press.
 
 ### March 19 (Spring Break)
 
